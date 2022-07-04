@@ -24,7 +24,14 @@ Note that this support wildcard, i.e.
 python viskit/frontend.py path/to/dir/exp*
 ```
 
+
+
+e.g. `python viskit/frontend.py ../logs/`
+
+
+
 # Installation
+
 Install this repository using pip:
 ```
 pip install -e .
