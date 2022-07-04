@@ -32,7 +32,7 @@ python viskit/frontend.py path/to/dir/exp*
 
 
 
-e.g. `python viskit/frontend.py ./logs/`
+e.g. `python viskit/frontend.py ./logs/ --data-filename eval.csv`
 
 
 
